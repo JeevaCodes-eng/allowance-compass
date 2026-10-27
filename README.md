@@ -1,6 +1,6 @@
-# PocketPilot — Student Money Planner
+# Allowance Compass — Student Money Planner
 
-PocketPilot helps students who live on a fixed allowance make practical spending decisions before their money runs out.
+Allowance Compass helps students who live on a fixed allowance make practical spending decisions before their money runs out.
 
 ## Problem statement
 A student may know their current balance but still overspend because upcoming bills, remaining days, category limits, and their recent spending pace are not considered together.
